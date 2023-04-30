@@ -9,11 +9,11 @@
         <tr>
             <th scope="col">Serial</th>
             <th scope="col">Phone Number</th>
-            <th scope="col">Iteams</th>
+            <th scope="col">Items</th>
             <th scope="col">Payment Type</th>
             <th scope="col">Total Payment</th>
             <th scope="col">Date</th>           
-            <th scope="col">View Iteams</th>
+            <th scope="col">View Items</th>
         </tr>
     </thead>
 
